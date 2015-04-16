@@ -1,3 +1,4 @@
+<h1>Phone Away</h1>
 This Android widget will allow users to set their status and auto-response of phone calls. So, next time you are having dinner or doing anything much more interesting than attaining a call :-), you can use this widget to auto reply with an SMS message without disappointing or keep your caller guessing for your unanswered call.
 
 Supported Platform Android 2.1 and above.
