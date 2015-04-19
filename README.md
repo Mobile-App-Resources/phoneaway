@@ -6,7 +6,12 @@ Supported Platform Android 2.1 and above.
 How to use ?
 
 1. Download PhoneAwayWidget?.apk and add the widget on your Home screen. By default it will set you status "Available", which means your phone will behave as it is.
-
+<p>
+<img src="http://imgur.com/8k5qNl.jpg">
 2. When you don't want to attain call and set status message, click on the widget, which in turn will launch the preference screen.
+<p>
+<img src="http://imgur.com/aWi6xl.jpg">
+<p>
+<img src="http://imgur.com/QYzaMl.jpg">
 
 3. So if you set your status, next time call comes, it will auto-response with SMS message. You can define the mximum number of SMS auto-response, e.g. Max SMS Count = 10 means, for first 10 calls it will send SMS and rest of the calls it will just disconnect. 
